@@ -8,76 +8,34 @@
 
 ### Etapes
 Ici vous retrouverai les étapes pour utiliser mon layer 7
-- [VPS](#vps)
-- [Proxy](#proxy)
-- [Lauch L7](#references)
+- [VPS](#VPS)
+- [Proxy](#Proxy)
+- [Lauch L7](#Lauch L7)
 - [CheckHost](#license)
 
 ---
 
-## vps
+## VPS
 
 Pour utiliser un vps, veuillez regarder cette vidéo : [Free VPS](https://youtu.be/OA5f4si3te0)
 
-#### proxy
+#### Proxy
 
-Pour avoir des proxies, vous pouvez soit en fournit vous même [ici]() ou le script va vous en scan et les check.
+Pour avoir des proxies, vous pouvez soit en fournit vous même [ici](https://proxyscrape.com/free-proxy-list) ou le script va vous en scan et les check.
 
 [Revenir au menu](#Etapes)
 
 ---
 
-## How To Use
+## Launch L7
 
-#### Installation
+Pour installer le tool, vous devez ouvrir une invite de commande sur votre vps, faire git clone https://github.com/law667-alpha/law-ddos-l7 && cd law-ddos-l7.
+Puis faite python3 cc.py
+
+#### CheckHost
+
+Pour vérifier si le site est down ou non, rendez vous [ici](https://check-host.net/) puis entrer l'url du site que vous avez attaquer
 
 
 
-#### API Reference
 
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
-
----
-
-## References
-[Back To The Top](#read-me-template)
-
----
-
-## License
-
-MIT License
-
-Copyright (c) [2017] [James Q Quick]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[Back To The Top](#read-me-template)
-
----
-
-## Author Info
-
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
-
-[Back To The Top](#read-me-template)
