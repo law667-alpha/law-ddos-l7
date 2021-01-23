@@ -14,14 +14,14 @@ Pour utiliser un vps, veuillez regarder cette vidéo : [Free VPS](https://youtu.
 
 Pour avoir des proxies, vous pouvez soit en fournit vous même [ici](https://proxyscrape.com/free-proxy-list) ou le script va vous en scan et les check.
 
-[Revenir au menu](#Etapes)
-
 ---
 
 #### Launch L7
 
 Pour installer le tool, vous devez ouvrir une invite de commande sur votre vps, faire git clone https://github.com/law667-alpha/law-ddos-l7 && cd law-ddos-l7.
 Puis faite python3 cc.py
+
+---
 
 #### CheckHost
 
