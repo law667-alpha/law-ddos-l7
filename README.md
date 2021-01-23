@@ -2,18 +2,9 @@
 
 ![Project Image](https://media.discordapp.net/attachments/779064343139713046/802531965085286420/2021-01-23_4.png)
 
-> Law DDOS L7 est un layer 7 pour ddos
 
 ---
 
-##### Etapes
-Ici vous retrouverai les étapes pour utiliser mon layer 7
-- [VPS](#VPS)
-- [Proxy](#Proxy)
-- [Launch L7](#Launch L7)
-- [CheckHost](#CheckHost)
-
----
 
 #### VPS
 
