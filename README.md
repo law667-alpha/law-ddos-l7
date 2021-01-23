@@ -10,6 +10,8 @@
 
 Pour utiliser un vps, veuillez regarder cette vidéo : [Free VPS](https://youtu.be/OA5f4si3te0)
 
+---
+
 #### Proxy
 
 Pour avoir des proxies, vous pouvez soit en fournit vous même [ici](https://proxyscrape.com/free-proxy-list) ou le script va vous en scan et les check.
