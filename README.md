@@ -6,16 +6,16 @@
 
 ---
 
-### Etapes
+##### Etapes
 Ici vous retrouverai les étapes pour utiliser mon layer 7
 - [VPS](#VPS)
 - [Proxy](#Proxy)
-- [Lauch L7](#Lauch L7)
-- [CheckHost](#license)
+- [Launch L7](#Launch L7)
+- [CheckHost](#CheckHost)
 
 ---
 
-## VPS
+#### VPS
 
 Pour utiliser un vps, veuillez regarder cette vidéo : [Free VPS](https://youtu.be/OA5f4si3te0)
 
@@ -27,7 +27,7 @@ Pour avoir des proxies, vous pouvez soit en fournit vous même [ici](https://pro
 
 ---
 
-## Launch L7
+#### Launch L7
 
 Pour installer le tool, vous devez ouvrir une invite de commande sur votre vps, faire git clone https://github.com/law667-alpha/law-ddos-l7 && cd law-ddos-l7.
 Puis faite python3 cc.py
